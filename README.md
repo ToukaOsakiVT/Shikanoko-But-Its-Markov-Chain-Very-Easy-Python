@@ -6,3 +6,4 @@ Shikanoko-But-Its-Markov-Chain:
 
 Palindromic number:
 - Youtube Shortsで流れてきた回文数未解決問題を見て作りたくなったコード
+- 試しに10万まで出力される
