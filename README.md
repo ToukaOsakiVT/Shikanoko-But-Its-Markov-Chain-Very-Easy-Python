@@ -1,4 +1,7 @@
- https://www.youtube.com/watch?v=Xkq13ZthmA0
-これを基に簡単に作ったPythonのコード
+pythonでお試しにコーディングしたお遊びの山
 
-適当すぎる
+Shikanoko-But-Its-Markov-Chain:
+- 「しかのこのこのここしたんたん」をマルコフ連鎖的に出力しようとしたもの
+- これ→ https://www.youtube.com/watch?v=Xkq13ZthmA0
+
+
